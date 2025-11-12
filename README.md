@@ -5,7 +5,7 @@
 A beautifully designed Coffee Shop Website built using HTML, CSS, and JavaScript.
 This website highlights the warmth and aroma of a perfect coffee experience with smooth animations, elegant design, and responsive layouts.
 
- Features
+ Features :-
 
  Home Section – Eye-catching hero banner with tagline and call to action.
 
