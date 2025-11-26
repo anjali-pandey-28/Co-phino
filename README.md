@@ -1,6 +1,6 @@
 # Co-phino
 
-☕ Coffee Website
+☕ Coffee Website.
 
 A beautifully designed Coffee Shop Website built using HTML, CSS, and JavaScript.
 This website highlights the warmth and aroma of a perfect coffee experience with smooth animations, elegant design, and responsive layouts.
