@@ -30,3 +30,5 @@ HTML5 – For clean and semantic structure
 CSS3 – For layout, responsiveness, and animations
 
 JavaScript (Vanilla JS) – For dynamic content and interactivity
+
+![image alt](https://github.com/anjali-pandey-28/Co-phino/blob/2c3333413d3792f127d4b4596020c8a4d8e726f6/cophino%20pic.jpeg)
